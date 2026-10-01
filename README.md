@@ -1,32 +1,7 @@
-Manual testing project for the QA Practice E-commerce Website, covering functional, UI, security, search, filtering, sorting, pagination, product details, cart management, quantity validation, calculations, and integration scenarios.
+# QA Practice E-commerce Website – Manual Testing
 
-The test suite includes positive, negative, boundary, and combination test scenarios designed to validate the core e-commerce user journey and identify potential functional issues.
+This repository contains manual test cases created for the **QA Practice E-commerce Website**.
 
-Website: QA Practice – E-commerce Practice Website
+The test cases cover key e-commerce functionalities such as website navigation, product search, category filtering, sorting, product details, pagination, cart operations, quantity validation, price calculations, and feature combinations.
 
-Testing Areas:
-
-Functional Testing
-
-UI Testing
-
-Security Testing
-
-Search & Filtering
-
-Product Sorting
-
-Pagination
-
-Product Details
-
-Cart Management
-
-Quantity & Price Validation
-
-Integration Testing
-
-Negative & Boundary Testing
-
-Environment: Windows 11
-Browser: Microsoft Edge
+The purpose of this project is to practice and demonstrate practical **manual QA testing, test case design, functional testing, negative testing, boundary testing, and integration testing**.
